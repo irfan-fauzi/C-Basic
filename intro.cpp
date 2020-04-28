@@ -1,7 +1,8 @@
 #include <iostream>
 
-int main(int argc, char const *argv[])
+int main()
 {
-	std::cout << "hello kalian semua" << std::endl;
+	std::cout << "hello kalian apa sehat ??" << std::endl;
+	std::cin.get();
 	return 0;
 }
